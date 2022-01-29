@@ -1,1 +1,1 @@
-# yaml-to-json
+# Simple script to convert YAML to JSON
